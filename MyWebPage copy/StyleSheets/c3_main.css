@@ -1,0 +1,74 @@
+*{
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    width: 300px;
+
+}
+
+main{
+    padding-right: 375%;
+    padding-bottom: 50%;
+}
+
+#logo{
+    width: 15%;
+    margin-bottom: -12%;
+    margin-top: -20%;
+
+    padding: 40px 0 0 10px;
+}
+
+h1{
+    font-size: 150%;
+    background-color: lightblue;
+    padding: 1em 100% 1em 150%;
+    color: white;
+    padding-right: 290%;
+    padding-top: 15%;
+    border: 0% 0% 0% 0%;
+    margin: -10% 0% 0% -10%;
+    text-shadow: -2px -2px 0 blue;
+}
+
+h2{
+    font-size: 200%;
+    padding-right: 100px;
+}
+
+h3{
+   font-size: 110%; 
+}
+
+
+p{
+    margin-right: 100px;
+    width: 100%;    
+}
+
+#Founder{
+    width: auto;
+    height: 200px;
+}
+
+
+#legalStuff{
+    font-size: 50%;
+    color: gray;
+    text-decoration: none;
+    margin-left: -15%;
+
+}
+
+footer{
+    font-size: 75%;
+    padding-left: 200%;
+    border-top: 1em;
+    border-color: black;
+}
+
+.cool_words{
+    text-shadow: -3px -3px 1px blue;
+    color: white;
+    text-decoration: solid;
+    font-size: 1.5em;
+}
